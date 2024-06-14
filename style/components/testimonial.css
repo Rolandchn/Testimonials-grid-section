@@ -44,7 +44,7 @@
     grid-area: jea;
 
     background-color: var(--clr-white);
-    color: var(--clr-blue1);
+    color: var(--clr-blue2);
 }
 
 .testimonial__box-pat{
@@ -58,7 +58,7 @@
     grid-area: kir;
 
     background-color: var(--clr-white);
-    color: var(--clr-blue1);
+    color: var(--clr-blue2);
 }
 
 .testimonial__box--user{
@@ -99,7 +99,7 @@
 
 .testimonial__box--content-quote2{
     font-size: var(--size-base);
-    opacity: 0.70;
+    color: #f5f5f5;
     margin-top: 1rem;
 }
 
