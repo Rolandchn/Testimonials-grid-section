@@ -26,6 +26,7 @@
 }
 
 .quote_symbole{
+    display: block;
     position: absolute;
     top: 0;
     right: 0;
@@ -82,7 +83,7 @@
 .testimonial__box--user-certificate{
     font-size: var(--size-sm);
     line-height: 0.6;
-    opacity: 0.50;
+    opacity: 0.90;
 }
 
 .testimonial__box--content{
@@ -99,7 +100,6 @@
 .testimonial__box--content-quote2{
     font-size: var(--size-base);
     margin-top: 1rem;
-    opacity: 0.70;
 }
 
 
