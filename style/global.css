@@ -7,7 +7,7 @@
     --clr-blue1: hsl(217, 19%, 35%);
     --clr-blue2: hsl(219, 29%, 14%);
     
-    --clr-white: #fafafa;
+    --clr-white: hsl(0, 0%, 100%);
     --clr-black: hsl(0, 0, 0);
     --clr-grey1: hsl(0, 0%, 81%);
     --clr-grey2: hsl(210, 46%, 95%);
